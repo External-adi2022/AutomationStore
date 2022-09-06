@@ -1,0 +1,9 @@
+{
+    "UserEmail": "aditya3@gmail.com",
+    "UserPassword" : "@A12345",
+    "UserMinPassword": "B123",
+    "UserMinimumPassword" : "@A12345",
+    "UserWrongConfirmPassword" : "@A9875",
+    "UserFname": "Aditya",
+    "UserLname": "Kushwaha"
+}
