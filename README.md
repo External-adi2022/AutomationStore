@@ -1,10 +1,13 @@
-Begin with Cypress
+# Automation Testing using *Cypress Automation Framework* of **nopcommerce website**
+Visit website [nopcommerce](https://demo.nopcommerce.com/)
 
-npm installation for creating package.json file and installing cypress
-$ npm init
-$ npm install cypress --save
+### Test Scenario are:-
+    1. Validate the working functionality of Register Account
+    2. Validate the working functionality of Login Account
+    3. Validate Top Nav bar
+    4. Validate Drop down Menu list of Home page
+    5. Validate the working functionality of Admin Login Account
+    6. Validate the addition of product through Admin Account
+    7. Validate IFrame
+    
 
-yarn installation for easy use of scripts in package.json
-$ npm install yarn --save
-$ yarn init
-$ yarn add cypress
