@@ -1,4 +1,4 @@
-# Automate *nopcommerce website* using `#0969DACypress automation testing framework`
+# Automate *nopcommerce website* using <font color="orange">`Cypress automation testing framework`</font>
 Visit website [nopcommerce](https://demo.nopcommerce.com/)
 
 ### Test Scenario are:-
