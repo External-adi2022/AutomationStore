@@ -1,4 +1,4 @@
-# Automation Testing using *Cypress Automation Framework* of **nopcommerce website**
+# Automate *nopcommerce website* using **Cypress automation testing framework**
 Visit website [nopcommerce](https://demo.nopcommerce.com/)
 
 ### Test Scenario are:-
